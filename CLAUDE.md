@@ -98,6 +98,7 @@ Phase-X-Name/Day-NN-Topic-In-Kebab-Case/
 - ✅ **Day 2** complete and verified (8 modules + 3 exercises: Strings, f-strings & methods).
 - ✅ **Career Launchpad** plan (`CAREER-PLAN.md`) + **Days 1–2 career decks** committed; Days 3–7 decks drafted locally (not yet committed).
 - ✅ **Day 2 trainer's guide** (`TRAINERS-GUIDE.md`) — full minute-by-minute session script.
-- ⏳ Days 3–7 (Python *code*) next; then Day 8+ (AI track).
+- ✅ **Day 3** complete and verified (7 modules + 3 exercises: Booleans, conditionals & logical operators) + trainer's guide.
+- ⏳ Days 4–7 (Python *code*) next; then Day 8+ (AI track).
 - ⏳ Career decks Days 8–45 to follow.
 - Repo initialized (git).

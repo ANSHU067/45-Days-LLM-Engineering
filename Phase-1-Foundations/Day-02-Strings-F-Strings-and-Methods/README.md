@@ -57,4 +57,4 @@ Three of them — see [`exercises/`](exercises/):
 2. **Shopping Cart** — f-string number formatting (₹ amounts)
 3. **Press Release** — cleaning messy text with string methods + chaining
 
-➡ Next: **Day 03 — Booleans, conditionals & logical operators** *(coming soon)*
+➡ Next: **[Day 03 — Booleans, conditionals & logical operators](../Day-03-Booleans-and-Conditionals/)**
